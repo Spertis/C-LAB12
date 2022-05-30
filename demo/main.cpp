@@ -1,4 +1,4 @@
-//Copyright by Enigma
+//Copyright by Spertis
 
 #include <boost/program_options.hpp>
 #include <example.hpp>
